@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">RestSMS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_app_by">by Xcreen</string>
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_settings">Settings</string>
+    <string name="nav_item_logging">Logging</string>
+    <string name="nav_item_about">About</string>
+
+    <string name="start_server">Start Server</string>
+    <string name="stop_server">Stop Server</string>
+    <string name="server_is_stopping">Server is shutting down. Please wait.</string>
+    <string name="server_failed_to_start">Server failed to start!</string>
+    <string name="server_failed_bindex">Server can not run on this port! (Bind-Exception)</string>
+    <string name="invalid_sim">Sim-Card is missing or not ready to send sms!</string>
+    <string name="no_sms_permission">SMS-Permission is required to run the server!</string>
+
+    <string name="notification_text">Server is running!</string>
+
+    <string name="about_about_me">About Me</string>
+    <string name="about_app_information">App-Information</string>
+    <string name="about_third_party_librarys">Third-Party Librarys</string>
+
+    <string name="about_me_name">Xcreen (David R.)</string>
+    <string name="about_me_text">I´m a Fullstack Developer and focused on Java/Android/Lucee and Js-Applications.\nIf you like, you could buy me a coffee ☕ 😊.</string>
+    <string name="about_me_donate">Donate via Paypal</string>
+    <string name="about_me_github">Github Profile</string>
+
+    <string name="about_app_version_code">Version-Code:</string>
+    <string name="about_app_version">Version:</string>
+    <string name="about_app_sms_permission">Has SMS-Permission:</string>
+    <string name="about_app_sim1_status">Sim-State (1):</string>
+    <string name="about_app_sim2_status">Sim-State (2):</string>
+    <string name="about_app_default_sms_app">Default SMS-App:</string>
+
+    <string name="error_sim_absent">No Card available!</string>
+    <string name="error_sim_pin">Sim-PIN required!</string>
+    <string name="error_sim_puk">PUK required!</string>
+    <string name="error_sim_network_pin">Network-Pin required!</string>
+    <string name="error_sim_ready">Ready!</string>
+    <string name="error_sim_not_ready">Not Ready!</string>
+    <string name="error_sim_disabled">Permanently disabled!</string>
+    <string name="error_sim_card_error">Card-Error!</string>
+    <string name="error_sim_restricted">Not usable because of Carrier-Restriction!</string>
+
+    <string name="setting_feed_url">Feed URL</string>
+    <string name="setting_postback_url">Postback URL</string>
+    <string name="setting_open_website">Open Browser after Server-Start</string>
+    <string name="setting_disable_logging">Disable writing/creating log-files</string>
+    <string name="setting_save">Save</string>
+    <string name="setting_invalid_port">Invalid Port!</string>
+    <string name="setting_invalid_port_range">Port must be between 0 and 65535!</string>
+    <string name="setting_saved">Settings saved!</string>
+
+    <string name="logging_log_entries">Entries: %1$d</string>
+    <string name="logging_detail_headline">File: %1$s</string>
+    <string name="logging_delete_headline">Delete Log?</string>
+    <string name="logging_delete">You want delete the log-file (%1$s)?</string>
+    <string name="logging_failed_to_delete">Failed to delete log-file.</string>
+    <string name="logging_successful_deleted">Successfully deleted log-file.</string>
+    <string name="logging_options_delete_all">Delete all Logs</string>
+    <string name="logging_options_delete_all_quest">You really want to delete all log-files?</string>
+    <string name="logging_successful_deleted_all">Successfully deleted all log-files.</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="unknown">---</string>
+</resources>
